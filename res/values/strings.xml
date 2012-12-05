@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="start">开始对话</string>
+    <string name="app_name">安卓小书童</string>
+    <string name="error">错误</string>
+    <string name="error_network_offline">请确定手机能访问至网络。</string>
+    <string name="exit">退出</string>
+    <string name="noPlugin">很遗憾，您的手机必须安装Google的VoiceSearch插件才能体验书童功能</string>
+    <string name="voiceTip">说一句唐诗来考我吧</string>
+    <string name="doing">努力思考中。。。</string>
+</resources>
